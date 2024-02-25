@@ -1,0 +1,22 @@
+[
+    {
+        "model": "dashboard.post",
+        "pk": 1,
+        "fields": {
+            "title": "Post 1",
+            "description": "Description 1",
+            "scheduled_at": "2024-02-28T12:00:00Z",
+            "author": 1
+        }
+    },
+    {
+        "model": "dashboard.post",
+        "pk": 2,
+        "fields": {
+            "title": "Post 2",
+            "description": "Description 2",
+            "scheduled_at": "2024-03-01T12:00:00Z",
+            "author": 1
+        }
+    }
+]
